@@ -1,4 +1,4 @@
-MathMaze - A qooxdoo Application(Game)
+# MathMaze - A qooxdoo Application(Game)
 ==================================================
 
 Produce : http://willbesomething.com/?p=873
