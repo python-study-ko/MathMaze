@@ -6,3 +6,4 @@
 - FaceBook Group : [MM (Math Maze) :: willbesomething](https://www.facebook.com/groups/1032657763461655/)
 
 ## ScreenShot
+![MindMap Screenshot](/screenshot/MathMaze.png "MindMap")
