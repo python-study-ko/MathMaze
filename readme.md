@@ -1,4 +1,4 @@
-# MathMaze - prototype Game
+# [MathMaze](http://willbesomething.com/?p=873) - prototype Game
 
 ## Make by
 - [windofwind](https://github.com/windofwind) | [blog](http://windofwind.tistory.com) | [email](windofwind@gmail.com)
