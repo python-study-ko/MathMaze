@@ -17,7 +17,13 @@ qx.Class.define("mathmaze.view.Main", {
      *****************************************************************************
      */
     construct: function (layout) {
-        this.base(arguments, layout || new qx.ui.layout.VBox());
+        this.base(arguments, layout || new qx.ui.layout.VBox(1));
+
+        this.set({
+            backgroundColor:"black",
+            width:600,
+            height:800
+        });
     },
 
     /*
